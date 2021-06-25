@@ -9,3 +9,6 @@ Some quick points:
 - Data was cleared, unnecessary symbols like '$' or 'O' instead of '0' was removed.  
 - All information I thought was relevant combined in one large table (DataFrame)
 - I created 2 graphs, however by having all relevent information in a DataFrame, I could easily graph anything else.
+
+
+![alt text](https://raw.githubusercontent.com/Nzzska/BoredPandaTask1/main/all_impressions_bp_all.png?token=AP2X2U6CDNHQ4CTVJVZ4QOLA2WJ36)
