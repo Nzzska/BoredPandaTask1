@@ -11,4 +11,5 @@ Some quick points:
 - I created 2 graphs, however by having all relevent information in a DataFrame, I could easily graph anything else.
 
 
-![alt text](https://raw.githubusercontent.com/Nzzska/BoredPandaTask1/main/all_impressions_bp_all.png?token=AP2X2U6CDNHQ4CTVJVZ4QOLA2WJ36)
+![alt text](https://raw.githubusercontent.com/Nzzska/BoredPandaTask1/main/all_impressions_bp_all.png?token=AP2X2U6CDNHQ4CTVJVZ4QOLA2WJ36) 
+![alt_text]https://raw.githubusercontent.com/Nzzska/BoredPandaTask1/main/all_impressions_bp_all.png?token=AP2X2U6CDNHQ4CTVJVZ4QOLA2WJ36
